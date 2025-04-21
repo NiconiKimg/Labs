@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma", "Suma\Suma.csproj", "{2B8AFC98-CED1-4B40-B1C8-68B52669092B}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{1E780F98-ED9B-4B6D-8899-8B4772B676F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParesAl100", "ParesAl100\ParesAl100.csproj", "{E1591FB7-FF1E-4E46-8144-EC231833CED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroAMes", "NumeroAMes\NumeroAMes.csproj", "{B0B5A5E3-9134-4DA0-91BD-7547632050BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E1591FB7-FF1E-4E46-8144-EC231833CED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1591FB7-FF1E-4E46-8144-EC231833CED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1591FB7-FF1E-4E46-8144-EC231833CED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
