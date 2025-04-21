@@ -11,13 +11,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParesAl100", "ParesAl100\ParesAl100.csproj", "{E1591FB7-FF1E-4E46-8144-EC231833CED3}"
 EndProject
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroAMes", "NumeroAMes\NumeroAMes.csproj", "{B0B5A5E3-9134-4DA0-91BD-7547632050BA}"
-=======
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros Romanos", "Numeros Romanos\Numeros Romanos.csproj", "{28D0D1C2-0D1A-427E-95E1-FE70F9CFE8C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primos Gemelos", "Primos Gemelos\Primos Gemelos.csproj", "{533F83D3-77BD-411F-8013-24F66B31D0AF}"
->>>>>>> origin/main
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidarClave", "ValidarClave\ValidarClave.csproj", "{E3CCFBE1-0565-4A61-A03D-030B8D3E1756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{714411A6-6784-4053-B4F5-5F61312965EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,12 +43,10 @@ Global
 		{E1591FB7-FF1E-4E46-8144-EC231833CED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1591FB7-FF1E-4E46-8144-EC231833CED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1591FB7-FF1E-4E46-8144-EC231833CED3}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0B5A5E3-9134-4DA0-91BD-7547632050BA}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 		{28D0D1C2-0D1A-427E-95E1-FE70F9CFE8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{28D0D1C2-0D1A-427E-95E1-FE70F9CFE8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28D0D1C2-0D1A-427E-95E1-FE70F9CFE8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -55,7 +55,14 @@ Global
 		{533F83D3-77BD-411F-8013-24F66B31D0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533F83D3-77BD-411F-8013-24F66B31D0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533F83D3-77BD-411F-8013-24F66B31D0AF}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> origin/main
+		{E3CCFBE1-0565-4A61-A03D-030B8D3E1756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CCFBE1-0565-4A61-A03D-030B8D3E1756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CCFBE1-0565-4A61-A03D-030B8D3E1756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CCFBE1-0565-4A61-A03D-030B8D3E1756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714411A6-6784-4053-B4F5-5F61312965EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714411A6-6784-4053-B4F5-5F61312965EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714411A6-6784-4053-B4F5-5F61312965EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714411A6-6784-4053-B4F5-5F61312965EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
